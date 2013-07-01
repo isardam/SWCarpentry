@@ -1,0 +1,26 @@
+Provisioning Requests
+
+Synopsis
+Provisioning Request Phase
+Requirements for Provisioning Virtual Machines
+
+Accessing s2-vCenter
+<use KB0010404>
+
+Create a new virtual machine
+<use KB0010309     Provisioning a VM in VMware>
+
+PXE Provisioning
+ISO Provisioning
+< use KB0010456     Installing Windows on a VM >
+Provisioning from standard templates
+Customization Templates for Virtual Machine Provisioning
+
+Provisioning Virtual Machines
+
+To provision from a template using the provided dialogs
+To clone a Virtual Machine 
+To publish a Virtual Machine to a template 
+
+
+
