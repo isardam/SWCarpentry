@@ -1,6 +1,6 @@
 #!/bin/bash
 
-while read line
+while IFS=: read host switch vlan label
 do
-  echo -e $line
-done <text
+  echo $host
+done<vlans
